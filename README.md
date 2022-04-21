@@ -1,6 +1,6 @@
-# Web422A4
+# Stripy Music App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+Register and login stream music from Spotify API.
 
 ## Development server
 
