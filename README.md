@@ -1,6 +1,6 @@
 # Stripy Music App
 
-Register and login stream music from Spotify API.
+Register, login and stream music from Spotify API.
 
 Link: https://tender-borg-af89d2.netlify.app/login
 
